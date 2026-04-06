@@ -115,6 +115,7 @@ The system utilizes a normalized relational database schema comprising several i
 - `src/model/` - Contains basic data model classes.
 - `schema.sql` - Database schema definition.
 - `seed_data.sql` - Sample data to get started quickly.
-
+  Demonstration:
+  https://drive.google.com/drive/folders/1W0KnQq0ip92k-52xLyGAtw507Idz-RDB
 ## License
 This project is open-source. Feel free to use and modify the code for educational purposes.
